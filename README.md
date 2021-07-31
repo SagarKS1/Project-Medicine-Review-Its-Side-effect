@@ -1,4 +1,4 @@
-# Project-Medicine-Review-Its-Side-effect
+# Project-Medicine-Review-Its-Side Effect
 Created Web App using streamlit 
 
 
